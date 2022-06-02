@@ -45,7 +45,8 @@
 								<view class="friend-item" v-for="(item, index) in friends" :key="index" @tap="toChat">
 								<view class="friend-item-left">	
 								<view class="friend-img">
-									<image :src="item.imgUrl"></image>
+									<!-- <image :src="item.imgUrl"></image> -->
+									<image></image>
 								</view>
 								<view class="tip" v-if="item.tip!=0">{{item.tip}}</view>
 								</view>
@@ -193,7 +194,8 @@
 				  							width: 88rpx;
 				  							height: 88rpx;
 				  							image{
-				  								background-color: #FFD700;
+				  								// background-color: #FFD700;
+												background-color: #00A9FF;
 				  								width: 100%;
 				  								height: 100%;
 				  								border-radius: 50%;
@@ -285,7 +287,8 @@
 							width: 88rpx;
 							height: 88rpx;
 							image{
-								background-color: #FFD700;
+								// background-color: #FFD700;
+								background-color: #3F7FBF;
 								width: 100%;
 								height: 100%;
 								border-radius: 50%;

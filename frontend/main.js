@@ -8,7 +8,8 @@ Vue.use(Vuex)
 Vue.config.productionTip = false
 Vue.prototype.$store =store
 Vue.prototype.$request =request
-Vue.prototype.socket= io('http://localhost:8888')
+Vue.prototype.socket= io('http://localhost:60001')
+// Vue.prototype.socket= io('http://103.46.128.53:17901')
 
 
 App.mpType = 'app'

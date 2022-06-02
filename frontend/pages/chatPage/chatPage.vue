@@ -5,7 +5,7 @@
         <image src="../../static/image/index/return.png" @tap="back"></image>
       </view>
       <view class="top-bar-center">
-        <text>病友交流群</text>
+        <text>交流群</text>
       </view>
       <view class="top-bar-right">
         <view class="search"

@@ -1,6 +1,6 @@
 {
-    "name" : "my-uni-app-comments",
-    "appid" : "",
+    "name" : "im-app",
+    "appid" : "__UNI__40A40C1",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -72,7 +72,12 @@
     "mp-toutiao" : {
         "usingComponents" : true
     },
-    "uniStatistics": {  
-        "enable": false
+    "uniStatistics" : {
+        "enable" : false
+    },
+    "h5" : {
+        "devServer" : {
+            "port" : 3333
+        }
     }
 }

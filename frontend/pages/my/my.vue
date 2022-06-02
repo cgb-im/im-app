@@ -48,7 +48,7 @@
 					<text>注册</text>
 				</view>
 				<view class="center">
-					<text>2018-12-1</text>
+					<text>2022-6-1</text>
 				</view>
 				<view class="right">
 					<image src="../../static/image/index/more.png"></image>
@@ -87,7 +87,7 @@
 					<text>生日</text>
 				</view>
 				<view class="center">
-					<text>1998-02-09</text>
+					<text>xxxx-xx-xx</text>
 				</view>
 				<view class="right">
 					<image src="../../static/image/index/more.png"></image>
@@ -100,7 +100,7 @@
 					<text>电话</text>
 				</view>
 				<view class="center">
-					<text>15927643247</text>
+					<text>19999999999</text>
 				</view>
 				<view class="right">
 					<image src="../../static/image/index/more.png"></image>
@@ -144,7 +144,7 @@
 	export default {
 		data() {
 			return {
-				list:['女','男']
+				list:['男','女']
 			}
 		},
 		computed:{

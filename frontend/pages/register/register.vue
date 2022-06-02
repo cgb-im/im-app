@@ -9,14 +9,14 @@
     </view>
 	<view class="main-content">
 		<view class="app-icon">
-			<image src="../../static/image/index/tubiao.png"></image>
+			<image src="../../static/image/index/AI.png"></image>
 		</view>
 		<view class="login-title">
 			<view class="login-title-text">
 				<text>注册</text>
 			</view>
 			<view class="login-welcome">
-				<text>您好，欢迎来到Ac!</text>
+				<text>您好，欢迎来到AI!</text>
 			</view>
 			<view class="login-form">
 				<view class="username-box">

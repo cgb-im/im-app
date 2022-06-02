@@ -1,5 +1,8 @@
 // let baseURL='http://192.168.2.101:3000';
-let baseURL='http://localhost:3100';
+// let baseURL='http://localhost:60000';
+// let baseURL='http://103.46.128.53:17434'; 
+let baseURL='http://e5c3920807.51vip.biz:17434'; 
+
 function request(options){
 	uni.showLoading({
 	        title:"Loading"

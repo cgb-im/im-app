@@ -17,7 +17,7 @@
 				<view class="list-user">
 					<view class="user-item" v-for="(item, index) in userArr" :key="index">
 						<view class="user-image">
-							<image :src="item.imgUrl"></image>
+							<!-- <image :src="item.imgUrl"></image> -->
 						</view>
 						<view class="content-select">
 							<view class="username">

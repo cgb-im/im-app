@@ -5,39 +5,30 @@ export default{
 				id:1,
 				imgUrl:'almy.jpg',
 				tip:1,
-				name:'爱莉米娅',
+				name:'lmy',
 				time:new Date(),
-				news:'老公加油!',
-				email:'fawrar@163.com'
+				news:'你好!',
+				email:'xxx@163.com'
 			},
 			{
 				id:2,
 				imgUrl:'lm.jpg',
 				tip:0,
-				name:'蕾姆',
+				name:'wxj',
 				time:new Date(),
-				news:'主人最好了',
-				email:'fawrar@163.com'
+				news:'你好',
+				email:'xxx@163.com'
 			},
 			{
 				id:3,
 				imgUrl:'yjyx.jpg',
 				tip:0,
-				name:'衣锦夜行',
+				name:'zpx',
 				time:new Date(),
-				news:'死人出列，咱俩碰一碰',
-				email:'fawrar@163.com'
+				news:'你好',
+				email:'xxx@163.com'
 			},
-			{
-				id:4,
-				imgUrl:'user.jpg',
-				tip:0,
-				name:'二次元交流室',
-				time:new Date(),
-				news:'我的老天鹅啊',
-				type:'群'
-			
-			}]	
+			]
 			return friendList
 	},
 	//好友表
